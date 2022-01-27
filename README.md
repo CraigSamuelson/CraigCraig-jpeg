@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to surf 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
-<br />
 
 
 <!-- ### 📺 Latest YouTube Videos -->
@@ -85,7 +84,7 @@ Here are some ideas to get you started:
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
----
+
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
