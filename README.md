@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ## I'm a Programmer, DevOps, Developer, and Athlete!!
 
-- 🔭 I just launched my first Twitter: [Twitter][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to improve my skill
 - 🥅 2022 Goals: Contribute more to Open Source projects
