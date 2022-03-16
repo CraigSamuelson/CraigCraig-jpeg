@@ -86,9 +86,9 @@ Here are some ideas to get you started:
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
 
-
+<!-- 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Activity</summary> -->
   
 <!--START_SECTION:activity-->
 <!-- 1. 🗣 Commented on [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
@@ -97,8 +97,8 @@ Here are some ideas to get you started:
 4. 🗣 Commented on [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
 5. ❗️ Closed issue [#44](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/44) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection) -->
 <!--END_SECTION:activity-->
-
-</details>
+<!-- 
+</details> -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
