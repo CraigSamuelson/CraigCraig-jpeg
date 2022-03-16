@@ -75,10 +75,7 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
-
-https://user-images.githubusercontent.com/78127468/158565687-7aa81c39-7a21-48a0-a92a-28ea5579e4cd.mp4
-
-
+https://user-images.githubusercontent.com/78127468/158566231-a2a25ba5-cf35-44a8-8766-2be2ab122d43.mp4
 
 
 <!-- BLOG-POST-LIST:START -->
