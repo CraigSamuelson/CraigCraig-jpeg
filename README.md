@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- [![Website](hhttps://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://craigcraig-jpeg.github.io/WebApplications/html/index.html)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Programmer, DevOps, Developer, and wizard [<img alt="" width="22px" src="https://cdn-icons.flaticon.com/png/512/2065/premium/2065254.png?token=exp=1647427120~hmac=83576262bfb2a02748c4afa080bb3548" />](www.google.com)!!
+## I'm a Programmer, DevOps, Developer, and wizard [<img alt="" width="22px" src="https://cdn-icons.flaticon.com/png/512/1680/premium/1680365.png?token=exp=1647427190~hmac=2f46ac5f0f8c9396aa3434be799c7428" />](www.google.com)!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to improve my skill
