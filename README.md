@@ -119,6 +119,6 @@ Here are some ideas to get you started:
 <!-- [instagram]: https://instagram.com/codeSTACKr -->
 [linkedin]: https://www.linkedin.com/in/craig-samuelson
 [webdevplaylist]: 
-[jsplaylist]: 
+<!-- [jsplaylist]: 
 [cssplaylist]: 
-[reactplaylist]: 
+[reactplaylist]:  -->
