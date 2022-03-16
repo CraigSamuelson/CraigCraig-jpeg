@@ -107,6 +107,7 @@ Here are some ideas to get you started:
 
 </details> -->
 
+
 [website]: www.google.com
 <!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/CraigSamuelson5
