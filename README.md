@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/6410/6410855.png" />](www.google.com)
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="website" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/3917/3917538.svg?token=exp=1647426636~hmac=9fff64a2a8746cc3f97f765f78b176cc" />](https://craigcraig-jpeg.github.io/WebDevelopment/Cv.WebSite/html/index.html)
+[<img align="left" alt="" width="22px" src="https://cdn-icons.flaticon.com/png/512/2065/premium/2065254.png?token=exp=1647427120~hmac=83576262bfb2a02748c4afa080bb3548" />](www.google.com)
+[<img align="left" alt="" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670151.png?token=exp=1647426992~hmac=5fa45e928979a045d5dfd8719b9395c6" />][twitter]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
+[<img align="left" alt="website" width="22px" src="https://cdn-icons.flaticon.com/png/512/3242/premium/3242257.png?token=exp=1647427070~hmac=dbef2ee5eaf125e6e69755650ace6769" />](https://craigcraig-jpeg.github.io/WebDevelopment/Cv.WebSite/html/index.html)
 
 <br />
 
