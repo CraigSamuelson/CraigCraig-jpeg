@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn-icons-mp4.flaticon.com/512/6172/6172532.mp4" />](www.google.com)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="website" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/3917/3917538.svg?token=exp=1647426636~hmac=9fff64a2a8746cc3f97f765f78b176cc" />](https://craigcraig-jpeg.github.io/WebDevelopment/Cv.WebSite/html/index.html)
