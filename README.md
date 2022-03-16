@@ -75,7 +75,11 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
 
-https://preview.redd.it/yciagg5nclm81.gif?format=mp4&s=519f4b3b7f66e1552e38e643d8eb7633f1cbc2a0
+
+https://user-images.githubusercontent.com/78127468/158565687-7aa81c39-7a21-48a0-a92a-28ea5579e4cd.mp4
+
+
+
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
