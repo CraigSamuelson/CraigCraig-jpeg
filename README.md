@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://cdn-icons.flaticon.com/png/512/2065/premium/2065254.png?token=exp=1647427120~hmac=83576262bfb2a02748c4afa080bb3548" />](www.google.com)
+[<img align="left" alt="" width="22px" src="https://cdn-icons.flaticon.com/png/512/2593/premium/2593549.png?token=exp=1647643250~hmac=a7064790d66ca5c8e4ae86008058c6e4" />](www.google.com)
 
-[<img align="left" alt="" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670151.png?token=exp=1647426992~hmac=5fa45e928979a045d5dfd8719b9395c6" />][twitter]
+[<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
 
-[<img align="left" alt="website" width="22px" src="https://cdn-icons.flaticon.com/png/512/3242/premium/3242257.png?token=exp=1647427070~hmac=dbef2ee5eaf125e6e69755650ace6769" />](https://craigcraig-jpeg.github.io/WebDevelopment/Personal_site/index.html)
+[<img align="left" alt="website" width="22px" src="https://cdn-icons.flaticon.com/png/512/1084/premium/1084269.png?token=exp=1647643222~hmac=3691f5e9bcc553f76e6e32714e200439" />](https://craigcraig-jpeg.github.io/WebDevelopment/Personal_site/index.html)
 
 <br />
 
