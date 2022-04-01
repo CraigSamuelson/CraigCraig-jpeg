@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://cdn-icons.flaticon.com/png/512/2593/premium/2593549.png?token=exp=1647643250~hmac=a7064790d66ca5c8e4ae86008058c6e4" />](www.google.com)
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/wired/344/google-plus.png" />](www.google.com)
 
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 
