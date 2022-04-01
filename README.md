@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
 
-[<img align="left" alt="website" width="22px" src="https://cdn-icons.flaticon.com/png/512/1084/premium/1084269.png?token=exp=1647643222~hmac=3691f5e9bcc553f76e6e32714e200439" />](https://craigcraig-jpeg.github.io/WebDevelopment/Personal_site/index.html)
+[<img align="left" alt="website" width="22px" src="https://img.icons8.com/wired/344/google-sites.png" />](https://craigcraig-jpeg.github.io/WebDevelopment/Personal_site/index.html)
 
 <br />
 
