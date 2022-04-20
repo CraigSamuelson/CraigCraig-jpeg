@@ -1,0 +1,77 @@
+{
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.allowWorkspaceConfiguration": true,
+    "terminal.explorerKind": "external",
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "workbench.colorTheme": "Code Blue",
+    "C_Cpp.updateChannel": "Insiders",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "redhat.telemetry.enabled": true,
+    "vs-kubernetes": {
+        "vscode-kubernetes.kubectl-path.mac": "/Users/craigsamuelson/.vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.minikube-path.mac": "/Users/craigsamuelson/.vs-kubernetes/tools/minikube/darwin-amd64/minikube",
+        "vscode-kubernetes.helm-path.mac": "/Users/craigsamuelson/.vs-kubernetes/tools/helm/darwin-amd64/helm"
+    },
+    "explorer.sortOrder": "type",
+    "explorer.openEditors.sortOrder": "alphabetical",
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.visible": false,
+    "workbench.editor.autoLockGroups": {
+        "default": true
+    },
+    "workbench.editor.enablePreview": false,
+    "editor.renderWhitespace": "all",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "go.toolsManagement.autoUpdate": true,
+    "workbench.productIconTheme": "icons-carbon",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorCustomizations": {
+        "gitDecoration.modifiedResourceForeground": "#069A8E",
+        "gitDecoration.stageModifiedResourceForeground":"#d6ebff",
+        "gitDecoration.untrackedResourceForeground": "#A1E3D8",
+        "editorHint.foreground": "#A1E3D8",
+        "editorWarning.foreground": "#A1E3D8",  // Warnings inside the file
+        "editorError.foreground": "#069A8E",       // Errors inside the file
+        "editorInfo.foreground": "#069A8E",
+        "list.warningForeground": "#A1E3D8",    // Warnings on the file name
+        "list.errorForeground": "#069A8E",         // Errors on the file name
+        "editorCursor.foreground": "#40DFEF",
+        "terminalCursor.foreground": "#40DFEF"
+    },
+    "terminal.integrated.fontFamily": "SauceCodePro Nerd Font Mono",
+    // "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.fontWeight": 300 ,
+    "terminal.integrated.fontSize": 14,
+    "window.zoomLevel": 1,
+    "terminal.integrated.lineHeight": 0,
+    "editor.fontLigatures": false,
+    "editor.fontWeight": "normal",
+    "editor.tokenColorCustomizations": {
+            "comments": "#229977",
+            "variables": "#A1E3D8",
+            "keywords": "#40DFEF",
+            "strings": "#B9F8D3",
+            "textMateRules": [
+                {
+                    "scope": [
+                        "keyword.operator.arithmetic",
+                        "keyword.operator.comparison",
+                        "keyword.operator",
+                        "punctuation.separator",
+                        "punctuation.terminator"
+                    ],
+                    "settings": {
+                        "foreground": "#00FFC6"
+                    }
+                },
+            },
+
+}
