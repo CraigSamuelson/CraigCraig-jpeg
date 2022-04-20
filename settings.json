@@ -9,8 +9,7 @@
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter.notebook.ipynb"
     },
-    "workbench.colorTheme": "Code Blue",
-    "C_Cpp.updateChannel": "Insiders",
+    "workbench.colorTheme": "Nord",
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "redhat.telemetry.enabled": true,
     "vs-kubernetes": {
@@ -30,20 +29,59 @@
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
     "go.toolsManagement.autoUpdate": true,
+    "focusBorder": "",
     "workbench.productIconTheme": "icons-carbon",
     "workbench.iconTheme": "vscode-icons",
+    
     "workbench.colorCustomizations": {
-        "gitDecoration.modifiedResourceForeground": "#069A8E",
+        "list.activeSelectionBackground": "#141E27",
+        "list.activeSelectionForeground": "#EEEDDE",
+        
+        "list.focusBackground": "#4700D8",
+        "list.focusForeground": "#4700D8",
+        "list.highlightForeground": "#4700D8",
+        "list.hoverForeground": "#EEEDDE",
+        "list.inactiveSelectionBackground": "#141E27",
+        "list.inactiveSelectionForeground": "#EEEDDE",
+        "list.inactiveFocusBackground": "#141E27",
+        "list.invalidItemForeground": "#EEEDDE",
+
+        "gitDecoration.modifiedResourceForeground": "#40DFEF",
         "gitDecoration.stageModifiedResourceForeground":"#d6ebff",
-        "gitDecoration.untrackedResourceForeground": "#A1E3D8",
-        "editorHint.foreground": "#A1E3D8",
-        "editorWarning.foreground": "#A1E3D8",  // Warnings inside the file
-        "editorError.foreground": "#069A8E",       // Errors inside the file
-        "editorInfo.foreground": "#069A8E",
-        "list.warningForeground": "#A1E3D8",    // Warnings on the file name
-        "list.errorForeground": "#069A8E",         // Errors on the file name
+        "gitDecoration.untrackedResourceForeground": "#40DFEF",
+        "editorHint.foreground": "#4700D8",
+        "editorWarning.foreground": "#FCD900",  // Warnings inside the file
+        "editorError.foreground": "#00FFC6",       // Errors inside the file
+        "editorInfo.foreground": "",
+        "list.warningForeground": "#FCD900",    // Warnings on the file name
+        "list.errorForeground": "#E8630A",         // Errors on the file name
         "editorCursor.foreground": "#40DFEF",
-        "terminalCursor.foreground": "#40DFEF"
+        "terminalCursor.foreground": "#40DFEF",
+        "editor.semanticTokenColorCustomizations": {
+                "enabled": true,
+                "rules": {
+                    "type":  "#26A69A",
+                    "namespace": "#00897B",
+                    "function": "#00BCD4",
+                    "variable": "#42A5F5",
+                    "number": "#90A4AE",
+                    "string": {
+                        "foreground": "#90A4AE",
+                        "italic": true
+                    },
+                    "comment": {
+                        "foreground": "#546E7A",
+                        "fontStyle": "italic"
+                    },
+                    "variable.readonly.defaultLibrary": "#A89F9B",
+                    "macro": "#7E57C2",
+                    "keyword": "#7986CB",
+                    "operator": "#9575CD",
+                    "type.modification": "#00897B",
+                    "punctuation": "#A1887F"
+                }
+            }
+        
     },
     "terminal.integrated.fontFamily": "SauceCodePro Nerd Font Mono",
     // "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
@@ -55,10 +93,13 @@
     "editor.fontLigatures": false,
     "editor.fontWeight": "normal",
     "editor.tokenColorCustomizations": {
-            "comments": "#229977",
-            "variables": "#A1E3D8",
+            // "comments": "#035397",
+            "variables": "#00FFC6",
             "keywords": "#40DFEF",
-            "strings": "#B9F8D3",
+            "strings": "#EEEEEE",
+            // "functions": "#42C2FF",
+            // "types": "#5EE6EB",
+
             "textMateRules": [
                 {
                     "scope": [
@@ -69,9 +110,13 @@
                         "punctuation.terminator"
                     ],
                     "settings": {
-                        "foreground": "#00FFC6"
-                    }
+                        "foreground": "#A1E3D8"
+                    },
                 },
-            },
-
-}
+            ]
+        },
+        "tabnine.experimentalAutoImports": true,
+        "editor.codeActionsOnSave": {
+        
+        },
+    }
