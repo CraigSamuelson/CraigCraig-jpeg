@@ -20,7 +20,6 @@
     "explorer.sortOrder": "type",
     "explorer.openEditors.sortOrder": "alphabetical",
     "editor.minimap.enabled": false,
-    "workbench.statusBar.visible": false,
     "workbench.editor.autoLockGroups": {
         "default": true
     },
@@ -50,11 +49,11 @@
         "gitDecoration.stageModifiedResourceForeground":"#d6ebff",
         "gitDecoration.untrackedResourceForeground": "#40DFEF",
         "editorHint.foreground": "#4700D8",
-        "editorWarning.foreground": "#FCD900",  // Warnings inside the file
+        "editorWarning.foreground": "#E8F9FD",  // Warnings inside the file
         "editorError.foreground": "#00FFC6",       // Errors inside the file
         "editorInfo.foreground": "",
-        "list.warningForeground": "#FCD900",    // Warnings on the file name
-        "list.errorForeground": "#E8630A",         // Errors on the file name
+        "list.warningForeground": "#E8F9FD",    // Warnings on the file name
+        "list.errorForeground": "#00FFC6",         // Errors on the file name
         "editorCursor.foreground": "#40DFEF",
         "terminalCursor.foreground": "#40DFEF",
         "editor.semanticTokenColorCustomizations": {
@@ -85,7 +84,7 @@
     },
     "terminal.integrated.fontFamily": "SauceCodePro Nerd Font Mono",
     // "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
-    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.defaultProfile.osx": "fish",
     "terminal.integrated.fontWeight": 300 ,
     "terminal.integrated.fontSize": 14,
     "window.zoomLevel": 1,
@@ -117,6 +116,19 @@
         },
         "tabnine.experimentalAutoImports": true,
         "editor.codeActionsOnSave": {
+        
+        },
+        "[yaml]": {
+            "editor.defaultFormatter": "redhat.vscode-yaml"
+        },
+        "files.associations": {
+            "*.tf": "terraform"
+        },
+        "workbench.editor.showTabs": false,
+        "terminal.integrated.automationProfile.linux": {
+        
+        },
+        "terminal.integrated.automationProfile.osx": {
         
         },
     }
